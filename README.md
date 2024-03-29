@@ -1,2 +1,6 @@
 # Scrabble-CS50
-Código feito para a semana 2 do CS50. O codigo é constroi o jogo Scrabble, os jogadores criam palavras para marcar pontos, e o número de pontos é a soma dos valores dos pontos de cada letra da palavra.
+Code made for week 2 of CS50. The code builds the Scrabble game, players create words to score points, and the number of points is the sum of the point values ​​of each letter in the word.
+
+Author: Ronye Vantzing
+
+Libraries used: CS50.h, Ctype.h, Stdio.h, String.h
